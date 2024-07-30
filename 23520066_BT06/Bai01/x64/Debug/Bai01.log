@@ -1,0 +1,6 @@
+﻿  CPhanSo.cpp
+  Source.cpp
+  Generating Code...
+E:\2023 - 2024_(YEAR2)_TERM2\OOP\BaiThucHanhOOP\23520066_BT06\Bai01\CPhanSo.cpp(102): warning C4172: returning address of local variable or temporary: temp
+E:\2023 - 2024_(YEAR2)_TERM2\OOP\BaiThucHanhOOP\23520066_BT06\Bai01\CPhanSo.cpp(110): warning C4172: returning address of local variable or temporary: temp
+  Bai01.vcxproj -> E:\2023 - 2024_(YEAR2)_TERM2\OOP\BaiThucHanhOOP\23520066_BT06\x64\Debug\Bai01.exe

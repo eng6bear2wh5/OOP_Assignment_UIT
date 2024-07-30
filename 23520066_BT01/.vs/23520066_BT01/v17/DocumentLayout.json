@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F60FB-599A-42F5-B494-BB580E4E8B91}|Bai02\\Bai02.vcxproj|E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai02\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C1F60FB-599A-42F5-B494-BB580E4E8B91}|Bai02\\Bai02.vcxproj|solutionrelative:Bai02\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA133BE-7FA2-4C88-9BD8-9AC21776F643}|Bai09\\Bai09.vcxproj|E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai09\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEA133BE-7FA2-4C88-9BD8-9AC21776F643}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai02\\Source.cpp",
+              "RelativeDocumentMoniker": "Bai02\\Source.cpp",
+              "ToolTip": "E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai02\\Source.cpp",
+              "RelativeToolTip": "Bai02\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T14:35:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai09\\Source.cpp",
+              "RelativeDocumentMoniker": "Bai09\\Source.cpp",
+              "ToolTip": "E:\\2023 - 2024_(YEAR1)_TERM2\\OOP_IT002\\BaiThucHanhOOP\\23520066_BT01\\Bai09\\Source.cpp",
+              "RelativeToolTip": "Bai09\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T07:36:15.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
